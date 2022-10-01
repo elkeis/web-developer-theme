@@ -1,0 +1,21 @@
+{
+  "name": "web-developer-theme",
+  "displayName": "web-developer-theme",
+  "description": "theme for VS code web developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "web-developer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/web-developer-color-theme.json"
+      }
+    ]
+  }
+}
