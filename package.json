@@ -2,6 +2,10 @@
   "name": "web-developer-theme",
   "displayName": "web-developer-theme",
   "description": "theme for VS code web developer",
+  "publisher": "Elkeis",
+  "repository": {
+    "url": "https://github.com/elkeis/web-developer-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
@@ -13,7 +17,7 @@
     "themes": [
       {
         "label": "web-developer",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/web-developer-color-theme.json"
       }
     ]
