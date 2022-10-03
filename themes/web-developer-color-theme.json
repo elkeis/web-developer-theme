@@ -3,32 +3,45 @@
 		{
 			"scope": "meta.function",
 			"settings": {
-				"foreground": "#788972",
+				"foreground": "#fff2d4",
 				"fontStyle": "italic"
 			},
 		},
 		{
 			"scope": "meta.type",
 			"settings": {
-				"foreground": "#4facd1",
+				"foreground": "#bbe4f5",
 			}
 		},
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#ce9513",
+				"foreground": "#315133",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": "meta.class",
+			"settings": {
+				"foreground": "#fff2d4",
+			}
+		},
+		{
+			"scope": "entity.name.method",
+			"settings": {
+				"foreground": "#315133",
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#788972",
+				"foreground": "#fff2d4",
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#bc7b6d",
+				"foreground": "#3ac65a",
 			}
 		},
 		{
@@ -54,29 +67,28 @@
 		},
 	],
 	"colors": {
-		"editorBracketHighlight.foreground1": "#9e84d2",
-		"editorBracketHighlight.foreground2": "#bca8e5",
-		"editorBracketHighlight.foreground3": "#6580d0",
-		"editorBracketHighlight.foreground4": "#4facd1",
-		"editorBracketHighlight.foreground5": "#93d3ec",
-		"editorBracketHighlight.foreground6": "#77c45b",
-		"editorGhostText.background": "#ff0000",
+		"editorBracketHighlight.foreground1": "#decffe",
+		"editorBracketHighlight.foreground2": "#e9e0fa",
+		"editorBracketHighlight.foreground3": "#a9bcf5",
+		"editorBracketHighlight.foreground4": "#9cd8ef",
+		"editorBracketHighlight.foreground5": "#bce4f4",
+		"editorBracketHighlight.foreground6": "#c4f4b2",
 		"editorGutter.addedBackground": "#e5e6b9",
 		"editorGutter.commentRangeForeground": "#8ecaea38",
 		"editorGutter.background": "#f6f6f61d",
-		"editorCursor.foreground": "#ce9513",
+		"editorCursor.foreground": "#c8e4e7",
 		"editorLineNumber.foreground": "#8ecaea",
 		"editorGutter.modifiedBackground": "#50aad0",
-		"editor.lineHighlightBackground": "#f7fcff",
-		"editor.background": "#f6f6f6",
-		"editor.foreground": "#395063d7",
+		"editor.lineHighlightBackground": "#808080",
+		"editor.background": "#8a8a8a",
+		"editor.foreground": "#315133",
 		"tab.inactiveBackground": "#e5e5dc",
 		"tab.activeBackground": "#f6f6f6",
 		"tab.inactiveForeground": "#395063d7",
 		"tab.activeForeground": "#4facd1",
 		"foreground": "#395063d7",
 		"activityBar.activeBackground": "#dbdbd2",
-		"activityBar.background": "#e5e5dc",
+		"activityBar.background": "#ebf7ed",
 		"activityBarBadge.background": "#4facd1",
 		"activityBarBadge.foreground": "#f6f6f6",
 		"activityBar.inactiveForeground": "#395063d7",
