@@ -3,7 +3,7 @@
 		{
 			"scope": "meta.function",
 			"settings": {
-				"foreground": "#fff2d4",
+				"foreground": "#f6e6c0",
 				"fontStyle": "italic"
 			},
 		},
@@ -11,66 +11,54 @@
 			"scope": "meta.type",
 			"settings": {
 				"foreground": "#bbe4f5",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "meta.class",
 			"settings": {
-				"foreground": "#fff2d4",
+				"foreground": "#bbe4f5",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": "meta.block",
+			"settings": {
+				"foreground": "#79c2ec",
+				"fontStyle": "bold",
 			}
 		},
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#d1bd91",
-			}
-		},
-		{
-			"scope": "variable.language",
-			"settings": {
-				"foreground": "#4451a4",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "support.variable",
-			"settings": {
-				"foreground": "#4451a4",
-				"fontStyle": "italic"
+				"foreground": "#ead9b4",
 			}
 		},
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#543570",
-				"fontStyle": "bold",
+				"foreground": "#fefefe",
+				"fontStyle": ""
 			}
 		},
 		{
-			"scope": "variable.other.readwrite",
+			"scope": "variable.name",
 			"settings": {
-				"foreground": "#774f9b",
-				"fontStyle": "italic bold"
+				"foreground": "#fefefe",
+				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": "variable.parameter",
+			"scope": "variable.language",
 			"settings": {
-				"foreground": "#774f9b",
-				"fontStyle": "italic bold"
+				"foreground": "#79c2ec",
+				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": "keyword.control",
+			"scope": "keyword",
 			"settings": {
-				"foreground": "#4451a4",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": "keyword.operator.assignment",
-			"settings": {
-				"foreground": "#4451a4",
+				"foreground": "#bbe4f5",
 				"fontStyle": "bold"
 			}
 		},
@@ -84,8 +72,8 @@
 		{
 			"scope": "entity",
 			"settings": {
-				"foreground": "#7a4d1c",
-				"fontStyle": "bold"
+				"foreground": "#94aef0",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -97,21 +85,21 @@
 		{
 			"scope": "comment.block",
 			"settings": {
-				"foreground": "#dfdfce",
+				"foreground": "#d5bcd2",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment.line",
 			"settings": {
-				"foreground": "#d0d0c8",
+				"foreground": "#d5bcd2",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment.block.documentation",
 			"settings": {
-				"foreground": "#afc2d8",
+				"foreground": "#d5bcd2",
 				"fontStyle": "italic",
 			}
 		},
@@ -128,8 +116,8 @@
 		"breadcrumb.background": "#844f38de",
 		"breadcrumb.focusForeground": "#fff",
 		"breadcrumb.foreground": "#e4dabe",
-		"editor.background": "#8a8a8a",
-		"editor.foreground": "#014105",
+		"editor.background": "#807d7cde",
+		"editor.foreground": "#ffffff",
 		"editor.hoverHighlightBackground": "#e94f2c89",
 		"editor.lineHighlightBackground": "#808080",
 		"editor.selectionBackground": "#929ea9",
@@ -140,14 +128,14 @@
 		"editorBracketHighlight.foreground4": "#9cd8ef",
 		"editorBracketHighlight.foreground5": "#bce4f4",
 		"editorBracketHighlight.foreground6": "#83ed5d",
-		"editorCursor.foreground": "#000000",
+		"editorCursor.foreground": "#e5c1ff",
 		"editorGutter.addedBackground": "#e5e6b9",
 		"editorGutter.background": "#f6f6f61d",
 		"editorGutter.commentRangeForeground": "#8ecaea38",
 		"editorGutter.modifiedBackground": "#50aad0",
-		"editorHoverWidget.background": "#9ea6b3",
+		"editorHoverWidget.background": "#927c72",
 		"editorHoverWidget.border": "#757575d2",
-		"editorHoverWidget.foreground": "#3e3632",
+		"editorHoverWidget.foreground": "#ffffff",
 		"editorInfo.background": "#4446557d",
 		"editorInlayHint.background":"#e9bf85",
 		"editorLineNumber.foreground": "#8ecaea",
@@ -171,7 +159,7 @@
 		"gitDecoration.untrackedResourceForeground": "#a40ef5",
 		"icon.foreground": "#5d4734",
 		"list.activeSelectionBackground": "#988e80",
-		"list.hoverBackground": "#837a6e",
+		"list.hoverBackground": "#b27a52",
 		"list.inactiveSelectionBackground": "#988e80",
 		"panel.border":"#443e3a88",
 		"panel.background": "#b6b6b6",
@@ -189,7 +177,7 @@
 		"tab.border": "#a8a8a87d",
 		"tab.inactiveBackground": "#e5e5dc",
 		"tab.inactiveForeground": "#395063d7",
-		"terminal.background": "#25211f",
+		"terminal.background": "#463d39",
 		"terminal.foreground": "#e5e2dc",
 		"terminal.selectionBackground": "#582c14c2",
 		"terminal.tab.activeBorder": "#000000",
