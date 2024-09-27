@@ -14,28 +14,78 @@
 			}
 		},
 		{
-			"scope": "variable",
-			"settings": {
-				"foreground": "#315133",
-				"fontStyle": "bold",
-			}
-		},
-		{
 			"scope": "meta.class",
 			"settings": {
 				"foreground": "#fff2d4",
 			}
 		},
 		{
-			"scope": "entity.name.method",
+			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#315133",
+				"foreground": "#ffd478",
 			}
 		},
 		{
-			"scope": "keyword",
+			"scope": "variable.language",
 			"settings": {
-				"foreground": "#fff2d4",
+				"foreground": "#0022ff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.variable",
+			"settings": {
+				"foreground": "#0022ff",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#56089b",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#771ec5",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#771ec5",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#0022ff",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#0e31e3",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "keyword.operator.new",
+			"settings": {
+				"foreground": "#26fd29",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity",
+			"settings": {
+				"foreground": "#ecab66",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -98,7 +148,7 @@
 		"editorHoverWidget.background": "#9ea6b3",
 		"editorHoverWidget.border": "#757575d2",
 		"editorHoverWidget.foreground": "#3e3632",
-		"editorInfo.background": "#ff35357d",
+		"editorInfo.background": "#4446557d",
 		"editorInlayHint.background":"#e9bf85",
 		"editorLineNumber.foreground": "#8ecaea",
 		"editorSuggestWidget.background": "#ebdcc7",
@@ -124,8 +174,10 @@
 		"list.hoverBackground": "#837a6e",
 		"list.inactiveSelectionBackground": "#988e80",
 		"panel.border":"#443e3a88",
+		"panel.background": "#b6b6b6",
+		"sideBar.border":"#443e3a88",
 		"scrollbar.shadow": "#53403635",
-		"sideBar.background": "#b3d0db",
+		"sideBar.background": "#b6b6b6",
 		"sideBar.foreground": "#f5fff8",
 		"sideBarSectionHeader.background": "#4facd1",
 		"sideBarSectionHeader.foreground": "#f6f6f6",
