@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/elkeis/web-developer-theme"
   },
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.71.0"
   },

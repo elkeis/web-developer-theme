@@ -2,6 +2,6 @@
 
 ## Screenshot
 
-![theme screenshot](./screenshot.png)
+![theme screenshot](./screenshot.jpg)
 
 **Enjoy!**
